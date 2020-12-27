@@ -48,7 +48,6 @@ public class Controller : MonoBehaviour
     {
         string path = "Assets/SortedList.txt";
 
-        //Write some text to the test.txt file
         StreamWriter writer = new StreamWriter(path, true);
 
         writer.WriteLine("===========NEW LIST=========== \n \n");
