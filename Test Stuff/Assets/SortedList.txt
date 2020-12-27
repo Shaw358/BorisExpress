@@ -1,0 +1,170 @@
+===========NEW LIST=========== 
+ 
+
+Card28 | value: 0.0806243
+
+Card12 | value: 0.07080286
+
+Card32 | value: 0.06265537
+
+Card7 | value: 0.05648868
+
+Card10 | value: 0.05500757
+
+Card19 | value: 0.05232282
+
+Card24 | value: 0.04756121
+
+Card17 | value: 0.04521063
+
+Card35 | value: 0.0448929
+
+Card21 | value: 0.04462852
+
+Card2 | value: 0.03758182
+
+Card23 | value: 0.02898573
+
+Card16 | value: 0.02687477
+
+Card13 | value: 0.02676536
+
+Card5 | value: 0.02446213
+
+Card31 | value: 0.02360095
+
+Card18 | value: 0.02349576
+
+Card22 | value: 0.02340157
+
+Card4 | value: 0.02296556
+
+Card39 | value: 0.02247247
+
+Card3 | value: 0.02066158
+
+Card26 | value: 0.01985621
+
+Card41 | value: 0.01882956
+
+Card8 | value: 0.01744094
+
+Card33 | value: 0.01704166
+
+Card30 | value: 0.01252727
+
+Card6 | value: 0.0110125
+
+Card34 | value: 0.01071421
+
+Card20 | value: 0.00966191
+
+Card14 | value: 0.007831921
+
+Card38 | value: 0.007831921
+
+Card40 | value: 0.007748091
+
+Card36 | value: 0.005965105
+
+Card29 | value: 0.003670834
+
+Card1 | value: 0.00321198
+
+Card37 | value: 0.00261064
+
+Card25 | value: 0.002582697
+
+Card9 | value: 0
+
+Card11 | value: 0
+
+Card15 | value: 0
+
+Card27 | value: 0
+
+===========NEW LIST=========== 
+ 
+
+Card28 | value: 0.0806243
+
+Card12 | value: 0.07080286
+
+Card32 | value: 0.06265537
+
+Card7 | value: 0.05648868
+
+Card10 | value: 0.05500757
+
+Card19 | value: 0.05232282
+
+Card24 | value: 0.04756121
+
+Card17 | value: 0.04521063
+
+Card35 | value: 0.0448929
+
+Card21 | value: 0.04462852
+
+Card2 | value: 0.03758182
+
+Card23 | value: 0.02898573
+
+Card16 | value: 0.02687477
+
+Card13 | value: 0.02676536
+
+Card5 | value: 0.02446213
+
+Card31 | value: 0.02360095
+
+Card18 | value: 0.02349576
+
+Card22 | value: 0.02340157
+
+Card4 | value: 0.02296556
+
+Card39 | value: 0.02247247
+
+Card3 | value: 0.02066158
+
+Card26 | value: 0.01985621
+
+Card41 | value: 0.01882956
+
+Card8 | value: 0.01744094
+
+Card33 | value: 0.01704166
+
+Card30 | value: 0.01252727
+
+Card6 | value: 0.0110125
+
+Card34 | value: 0.01071421
+
+Card20 | value: 0.00966191
+
+Card14 | value: 0.007831921
+
+Card38 | value: 0.007831921
+
+Card40 | value: 0.007748091
+
+Card36 | value: 0.005965105
+
+Card29 | value: 0.003670834
+
+Card1 | value: 0.00321198
+
+Card37 | value: 0.00261064
+
+Card25 | value: 0.002582697
+
+Card9 | value: 0
+
+Card11 | value: 0
+
+Card15 | value: 0
+
+Card27 | value: 0
+

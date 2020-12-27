@@ -45,11 +45,15 @@ public class Card : MonoBehaviour
             {
                 if(temp != 0)
                 {
-                    Debug.Log(_cards[j].gameObject.name);
                     _cards[j].value += (temp / 3);
                 }
             }
             yield return new WaitForSeconds(0.1f);
         }
+    }
+
+    public float GetValue()
+    {
+        return value;
     }
 }
