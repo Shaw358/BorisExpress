@@ -46,9 +46,6 @@ public class Controller : MonoBehaviour
 
     public void WriteToFile(List<string> _list)
     {
-        TextAsset text = new TextAsset();
-        AssetDatabase.CreateAsset(text, "Assets/MyText.txt");
-
         string path = "Assets/SortedList.txt";
 
         //Write some text to the test.txt file
